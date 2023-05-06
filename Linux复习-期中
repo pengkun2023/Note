@@ -24,3 +24,4 @@
 		groupadd Project1 && groupadd Project2
 	(3) 建立file个document文件；
 		touch file && touch document
+10.简述互联网连接中浏览器，DHCP服务器、路由器、DNS服务器和web服务器所在的环节及其作用
