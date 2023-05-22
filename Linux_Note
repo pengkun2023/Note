@@ -1,0 +1,2 @@
+使用apache检查编辑的代码是否正确：
+  apachectl configtest
